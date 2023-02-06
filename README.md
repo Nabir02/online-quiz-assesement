@@ -6,6 +6,10 @@ A brief description of what this project does and How to do
 
 ## FAQ
 
+#### Question: How can I access this on local system ? ?
+
+Answer: clone the repo and go to your php Myadmin Mysql dashboard create a database name exam and import the exam.sql file to the database that's it.
+
 #### Question: How can i see the live website ?
 
 Answer: Visit this link to see the live website 
