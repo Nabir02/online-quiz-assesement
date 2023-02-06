@@ -1,0 +1,74 @@
+.reg-form {
+  width: 100%;
+  max-width: 500px;
+  margin: 10% 55%;
+  text-align: left;
+}
+
+.reg-page-heading {
+  font-size: 34px;
+  color: wheat;
+}
+
+.reg-page-subheading {
+  color: burlywood;
+  margin-bottom: 0;
+  font-size: 35px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.formconnectionfooter {
+  margin-top: 5%;
+}
+
+label {
+  color: lightpink;
+}
+
+label,
+input {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+button[type="submit"] {
+  background-color: blue;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.forgo-pass {
+  color: coral;
+}
+
+.btn-block {
+  width: 30%;
+  margin-top: 5%;
+  border-radius: 5%;
+}
+
+@media only screen and (max-width: 600px) {
+
+  .reg-form {
+      width: 82%;
+      max-width: 500px;
+      margin: 28% 9%;
+      text-align: left;
+    }
+  label,
+  input {
+    font-size: 0.8rem;
+
+  }
+}
