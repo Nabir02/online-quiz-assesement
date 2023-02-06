@@ -41,19 +41,13 @@ Answer: Yes, There is a ranking system where you can compare your score with oth
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Login Page](https://github.com/Nabir02/online-quiz-assesement/blob/main/image/Login%20Page.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Register Page](https://github.com/Nabir02/online-quiz-assesement/blob/main/image/Register%20Page.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Quiz Dashboard](https://github.com/Nabir02/online-quiz-assesement/blob/main/image/Quiz%20Dashboard.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-![A screenshot of my app](https://github.com/user/repo/blob/master/screenshot.png)
+![Ranking page](https://github.com/Nabir02/online-quiz-assesement/blob/main/image/Ranking%20Page.png)
 
 
 
